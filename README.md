@@ -48,3 +48,6 @@
       - [x] Binary Search
   - [ ] Sorting Algorithms
       - [x] Selection Sort
+      - [x] Merge Sort
+      - [x] Insertion Sort
+      - [x] Quick Sort
